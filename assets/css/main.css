@@ -2558,12 +2558,12 @@ body{
 	}
 	.banner img{
 		max-height: 200px;
-		max-width: 300px;
+		max-width: 325px;
 	}
 	.bannertext {
 		font-family: Arvo, 'Lucida Grande', Helvetica, Arial, sans-serif;
 		text-align: center;
-		font-size: small;
+		font-size: x-small;
 	}
 	.bannertext2 {
 		font-family: Arvo, 'Lucida Grande', Helvetica, Arial, sans-serif;
