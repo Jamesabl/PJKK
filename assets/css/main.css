@@ -2507,13 +2507,13 @@ body{
 .bannertext {
 	font-family: Arvo, 'Lucida Grande', Helvetica, Arial, sans-serif;
 	text-align: center;
-	font-size: x-large;
+	font-size: medium;
 }
 
 .bannertext2 {
 	font-family: Arvo, 'Lucida Grande', Helvetica, Arial, sans-serif;
 	text-align: center;
-	font-size: large;
+	font-size: small;
 }
 
 
